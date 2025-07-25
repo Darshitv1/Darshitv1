@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Darshit
-- 👀 I’m interested in 🌚
-- 🌱 I’m currently learning Shopify
+- 👀 I’m interested in AI AI AI...🌚
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on 🤷🏻‍♂️
-- 📫 How to reach me 🥱
-- 😄 Pronouns: 🔝🔝
-- ⚡ Fun fact: 🫠
 
 <!---
 Darshitv1/Darshitv1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
